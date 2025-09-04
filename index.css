@@ -1,0 +1,23 @@
+h1 {
+  color: black;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.subtitle {
+  color: green;
+  font-style: italic;
+}
+article {
+  width: 300px;
+  border: 5px dotted white;
+  padding: 30px;
+  margin: 20px;
+}
+article {
+  background-color: black;
+  font-size: larger;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+button {
+  background-color: white;
+}
